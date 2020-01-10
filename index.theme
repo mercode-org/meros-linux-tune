@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=MerOSTune
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
