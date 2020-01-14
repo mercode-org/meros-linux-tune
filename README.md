@@ -1,4 +1,4 @@
-# meros-linux-tune
+# MerOST
 MerOS Linux Sound Theme.
 
 Composed by OrieDargon.
